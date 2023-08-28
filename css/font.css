@@ -1,0 +1,13 @@
+/* تنظی فونت سایت */
+
+@font-face {
+    font-family: Vazir;
+    src: url(../font/Vazir-Medium-FD.woff),
+    url(../font/Vazir-Code.woff2),
+    url(../font/Vazir-Code-Hack-Extra-Height.woff2);
+
+}
+  body {
+    font-family: Vazir;
+  }
+  
